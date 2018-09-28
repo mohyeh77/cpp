@@ -1,0 +1,7 @@
+my_name
+first_name
+friend_name
+gender
+age
+three_sentences
+letter
